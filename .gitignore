@@ -1,0 +1,16 @@
+# Generated printer files; rebuild with scripts/export.sh
+export/
+*.3mf
+*.stl
+*.amf
+*.obj
+*.gcode
+*.bgcode
+
+# OpenSCAD scratch output
+*.echo
+*.log
+
+# OS noise
+.DS_Store
+Thumbs.db
